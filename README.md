@@ -5,7 +5,7 @@ This repository contains the following: *Ansible Scripts* *Bash Scripts* &amp; *
 
 The files in this repository were used to configure the network depicted below.
 
-![https://drive.google.com/file/d/1Ehi8piiANyLZ1d5I4x6hAiy6xBTJwt-M/view?usp=sharing](Images/diagram_filename.png)
+![Diagram_ReadMe.txt](Images/diagram_filename.png)
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the /etc/ansible/pentest.yaml file may be used to install only certain pieces of it, such as Filebeat.
 
